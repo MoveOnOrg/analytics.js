@@ -121,7 +121,7 @@
     "@segment/analytics.js-integration-yandex-metrica": "git+https://github.com/segment-integrations/analytics.js-integration-yandex-metrica.git"
   },
   "devDependencies": {
-    "@segment/eslint-config": "^3.1.1",
+    "@segment/eslint-config": "^4.0.0",
     "browserify": "^13.0.1",
     "eslint": "^2.9.0",
     "eslint-plugin-mocha": "^2.2.0",
